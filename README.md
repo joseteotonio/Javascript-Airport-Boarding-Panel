@@ -15,5 +15,3 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>
 </p>
 
-<h5> Follow the steps to create dynamically the html table </h5>
-<img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/000-Top.png">
